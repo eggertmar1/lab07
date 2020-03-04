@@ -3,3 +3,4 @@ def fizzbuzz(num):
         return "FizzBuzz"
     if num % 5 == 0:
         return "Buzz"
+    
